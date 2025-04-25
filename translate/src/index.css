@@ -1,0 +1,19 @@
+body {
+  background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4032ada5-0df4-44b0-a784-0894dabce3b3/dbl19es-2c1e8a65-7004-4999-a065-9e6ebc144676.jpg/v1/fill/w_1024,h_640,q_75,strp/the_kustom_shop___beautiful_nature_background_by_thekustomshop_dbl19es-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvNDAzMmFkYTUtMGRmNC00NGIwLWE3ODQtMDg5NGRhYmNlM2IzXC9kYmwxOWVzLTJjMWU4YTY1LTcwMDQtNDk5OS1hMDY1LTllNmViYzE0NDY3Ni5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.roLuMMXdKjW0yUc9eC0PNHkiGNKSGBT10m8dQql_8Aw');
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1; /* Ensures content is above the background */
+}
